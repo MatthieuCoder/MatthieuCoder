@@ -1,1 +1,1 @@
-<a rel="me" href="https://mastodon.puffer.fish/@matthieu" />
+<a rel="me" href="https://mastodon.puffer.fish/@matthieu">Mastodon</a>
